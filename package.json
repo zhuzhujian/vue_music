@@ -1,0 +1,23 @@
+{
+  "name": "vue_music",
+  "version": "1.0.0",
+  "description": "webCloudMusic Demon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhuzhujian/vue_music.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuzhujian/vue_music/issues"
+  },
+  "homepage": "https://github.com/zhuzhujian/vue_music#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-dev-server": "^3.8.2"
+  }
+}
